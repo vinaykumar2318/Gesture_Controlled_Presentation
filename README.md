@@ -20,13 +20,13 @@ This project introduces a gesture-controlled presentation system utilizing OpenC
 ##Gestures
 Here are the five gestures used in this project along with their respective images:
 
-1. **Swipe Left**: Move to the next slide
+1. **Swipe Left**: Move to the previous slide
     ![Swipe Left](images/swipeLeft.png)
-2. **Swipe Right**: Return to the previous slide
+2. **Swipe Right**: Return to the next slide
     ![Swipe Right](images/swipeRight.png)
-3. **Cursor**: Pause the presentation
+3. **Cursor**: For getting cursor over screen
     ![Cursor](images/cursor.png)
-4. **Draw**: Resume the presentation
+4. **Draw**: To draw something
     ![Draw](images/draw.png)
-5. **Eraser**: Exit the presentation
+5. **Eraser**: To erase
     ![Eraser](images/eraser.png)
