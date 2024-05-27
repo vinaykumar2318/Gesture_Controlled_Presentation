@@ -31,6 +31,6 @@ Here are the five gestures used in this project along with their respective imag
 5. **Eraser**: To erase
     ![Eraser](images/eraser.png)
 6. **Cursor Color Change**: To change the color of Cursor
-    ![Eraser](images/cursorColorChange.png)
+    ![Cursor Color Change](images/changeCursorColor.png)
 8. **Close**: To close all windows opened when the code is executed
-    ![Eraser](images/close.png)
+    ![Close](images/close.png)
